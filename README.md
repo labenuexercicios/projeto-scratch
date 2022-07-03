@@ -21,9 +21,9 @@ Exemplo de cenário:
 
 ### Lista de requisitos
 
-- [ ] O jogo deve ter um cenário.
-- [ ] O jogo deve ser iniciado ao clicar na bandeira verde.
-- [ ] O jogo deve ter um personagem (um ator qualquer) que se mova nas 4 direções utilizando o teclado.
+- [x] O jogo deve ter um cenário.
+- [x] O jogo deve ser iniciado ao clicar na bandeira verde.
+- [x] O jogo deve ter um personagem (um ator qualquer) que se mova nas 4 direções utilizando o teclado.
 - [ ] O jogo deve ter 4 outros atores iguais (cumprindo o papel das bolinhas, mas não precisam ser bolinhas) deslizando pela tela aleatoriamente.
 - [ ] O jogo deve ter uma variável para contar a pontuação. Essa variável deve estar como 0 quando o jogo começar.
 - [ ] Quando o personagem principal encosta em alguma das 4 bolinhas, a bolinha encostada deve sumir.
