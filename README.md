@@ -40,12 +40,12 @@ Exemplo de cenário:
        <summary>Não sabe como fazer?</summary>
        <img src="assets/baixar-scratch.png" alt="Como baixar o projeto para o seu computador"/>
     </details>
--  Adicione a uma pasta na raiz do seu repositório local
+- Adicione o arquivo baixado a uma pasta na raiz do seu repositório local
    <details>
    <summary>Quer uma dica?</summary>
    <img src="assets/adicionar-no-repo.png" alt="Como adicionar o projeto no repositório"/>
    </details>
-- Faça o fluxo de entrega pelo git e **abra o PR pro seu repositório**
+- Faça o fork, e execute o fluxo de entrega do git. **Lembre-se de abrir o PR para seu próprio repositório.**
    <details>
       <summary>Dúvidas sobre o Git & Github?</summary>
       <p>Adiciomos um vídeo explicando o <strong>processo de entrega</strong> [do fork ao pull request] no Material Assincrono da <a href="https://classroom.google.com/w/NTM0NjA2NDg3MjIx/tc/NTM2NDg5NTQyODg4">A005 - Git e Github</a>. Esse vídeo também exemplifica situações que podem acontecer durante o fluxo de utilização do Git.</p>
