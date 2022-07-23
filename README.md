@@ -29,5 +29,5 @@ Exemplo de cenário:
 - [x] Quando o personagem principal encosta em alguma das 4 bolinhas, a bolinha encostada deve sumir.
 - [x] Quando o personagem principal encosta em alguma das 4 bolinhas, a pontuação deve ser somada em 1.
 - [x] O jogo deve ter uma variável que guarda o tempo do jogo, em segundos. O tempo deve começar o jogo em 0.
-- [ ] O jogo deve terminar quando o personagem principal pegar as 4 bolinhas. Nesse caso, mostrar uma mensagem de vitória.
-- [ ] O jogo deve terminar quando o tempo chega em 30 segundos. Nesse caso, mostrar uma mensagem de derrota.
+- [x] O jogo deve terminar quando o personagem principal pegar as 4 bolinhas. Nesse caso, mostrar uma mensagem de vitória.
+- [x] O jogo deve terminar quando o tempo chega em 30 segundos. Nesse caso, mostrar uma mensagem de derrota.
