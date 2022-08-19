@@ -62,7 +62,7 @@ Exemplo de cenário:
 
    </details>
     
-- Entregue o **link do projeto de Scratch** e o **link do PR** no [Formulário de entrega](https://forms.gle/2GRK4tWBdCz8jAaY6). **Ainda não faça o merge!**
+- Entregue o **link do projeto de Scratch** e o **link do PR** no [Formulário de entrega](https://forms.gle/makgC56MrUSNX8RY8). **Ainda não faça o merge!**
    <details>
       <summary>Ajuda pra saber onde achar o link do PR?</summary>
       <p>
