@@ -48,19 +48,21 @@ Exemplo de cenário:
    <img src="assets/adicionar-no-repo.png" alt="Como adicionar o projeto no repositório"/>
    </details>
    
-- Execute o fluxo de entrega do git. **Lembre-se de abrir o PR para seu próprio repositório.**
-    <details>
-       <summary>Dúvidas sobre o Git & Github?</summary>
-       <p>Adiciomos um vídeo explicando o <strong>processo de entrega</strong> [do fork ao pull request] no Material Assincrono da <a href="https://classroom.google.com/w/NTM0NjA2NDg3MjIx/tc/NTM2NDg5NTQyODg4">A005 - Git e Github</a>. Esse vídeo também exemplifica situações que podem acontecer durante o fluxo de utilização do Git.</p>
-    </details>
-    
-- Compartilhe o projeto de Scratch e copie o link
+   - Compartilhe o projeto de Scratch e copie o link
    <details>
       <summary>Não sabe como fazer?</summary>
       
    <video src="https://user-images.githubusercontent.com/11279432/185605527-a2729068-bbc0-4e6a-b1ba-a0203967fdea.mov" />
 
    </details>
+   
+- Recomendamos que você tambémpratique executar o fluxo de entrega do git. **Lembre-se de abrir o PR para seu próprio repositório.**
+    <details>
+       <summary>Dúvidas sobre o Git & Github?</summary>
+       <p>Adiciomos um vídeo explicando o <strong>processo de entrega</strong> [do fork ao pull request] no Material Assincrono da <a href="https://classroom.google.com/w/NTM0NjA2NDg3MjIx/tc/NTM2NDg5NTQyODg4">A005 - Git e Github</a>. Esse vídeo também exemplifica situações que podem acontecer durante o fluxo de utilização do Git.</p>
+    </details>
+    
+
     
 - Entregue o **link do projeto de Scratch** e o **link do PR** no [Formulário de entrega](https://forms.gle/makgC56MrUSNX8RY8). **Ainda não faça o merge!**
    <details>
