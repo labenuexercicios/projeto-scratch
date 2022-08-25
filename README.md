@@ -3,7 +3,9 @@
 ## Link do projeto:
 https://scratch.mit.edu/projects/723170497/
 
-<img width="489" alt="Exemplo do jogo" src="https://user-images.githubusercontent.com/30758350/176967201-97de6ba0-2b6b-491f-9fd5-8e9a56a78fcc.png">
+
+<img src="Projeto/foto1.png" alt="foto do jogo"/>
+
 
 ### Lista de requisitos
 
