@@ -39,7 +39,8 @@ Exemplo de cenário:
    <details>
       <summary>Não sabe como fazer?</summary>
       
-   <video src="https://user-images.githubusercontent.com/11279432/185605527-a2729068-bbc0-4e6a-b1ba-a0203967fdea.mov" />
+![image](https://user-images.githubusercontent.com/11279432/186936864-52539e8e-2397-45a3-a28e-db4adae9c360.png)
+
 
    </details>
    
