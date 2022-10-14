@@ -22,16 +22,16 @@ Exemplo de cenário:
 
 ### Lista de requisitos
 
-- [ ] O jogo deve ter um cenário.
-- [ ] O jogo deve ser iniciado ao clicar na bandeira verde.
-- [ ] O jogo deve ter um personagem (um ator qualquer) que se mova nas 4 direções utilizando o teclado.
-- [ ] O jogo deve ter 4 outros atores iguais (cumprindo o papel das bolinhas, mas não precisam ser bolinhas) deslizando pela tela aleatoriamente.
-- [ ] O jogo deve ter uma variável para contar a pontuação. Essa variável deve estar como 0 quando o jogo começar.
-- [ ] Quando o personagem principal encosta em alguma das 4 bolinhas, a bolinha encostada deve sumir.
-- [ ] Quando o personagem principal encosta em alguma das 4 bolinhas, a pontuação deve ser somada em 1.
-- [ ] O jogo deve ter uma variável que guarda o tempo do jogo, em segundos. O tempo deve começar o jogo em 0.
-- [ ] O jogo deve terminar quando o personagem principal pegar as 4 bolinhas. Nesse caso, mostrar uma mensagem de vitória.
-- [ ] O jogo deve terminar quando o tempo chega em 30 segundos. Nesse caso, mostrar uma mensagem de derrota.
+- [X] O jogo deve ter um cenário.
+- [X] O jogo deve ser iniciado ao clicar na bandeira verde.
+- [X] O jogo deve ter um personagem (um ator qualquer) que se mova nas 4 direções utilizando o teclado.
+- [X] O jogo deve ter 4 outros atores iguais (cumprindo o papel das bolinhas, mas não precisam ser bolinhas) deslizando pela tela aleatoriamente.
+- [X] O jogo deve ter uma variável para contar a pontuação. Essa variável deve estar como 0 quando o jogo começar.
+- [X] Quando o personagem principal encosta em alguma das 4 bolinhas, a bolinha encostada deve sumir.
+- [X] Quando o personagem principal encosta em alguma das 4 bolinhas, a pontuação deve ser somada em 1.
+- [X] O jogo deve ter uma variável que guarda o tempo do jogo, em segundos. O tempo deve começar o jogo em 0.
+- [X] O jogo deve terminar quando o personagem principal pegar as 4 bolinhas. Nesse caso, mostrar uma mensagem de vitória.
+- [X] O jogo deve terminar quando o tempo chega em 30 segundos. Nesse caso, mostrar uma mensagem de derrota.
 
 ### Instruções de entrega
 
