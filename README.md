@@ -35,7 +35,7 @@ Exemplo de cenário:
 
 ### Instruções de entrega
 
-   - Compartilhe o projeto de Scratch e copie o link
+   - Compartilhe o projeto de Scratch e copie o link no comentário do PR.
    <details>
       <summary>Não sabe como fazer?</summary>
       
@@ -44,7 +44,7 @@ Exemplo de cenário:
 
    </details>
    
-- [Opcional] Recomendamos que, caso queira, também pratique executar o fluxo de entrega do git. **Lembre-se de abrir o PR para seu próprio repositório.**
+- É necessário abrir um PR para seu próprio repositório.
     <details>
        <summary>Dúvidas sobre o Git & Github?</summary>
        <p>Adiciomos um vídeo explicando o <strong>processo de entrega</strong> [do fork ao pull request] no Material Assincrono da <a href="https://classroom.google.com/w/NTM0NjA2NDg3MjIx/tc/NTM2NDg5NTQyODg4">A005 - Git e Github</a>. Esse vídeo também exemplifica situações que podem acontecer durante o fluxo de utilização do Git.</p>
