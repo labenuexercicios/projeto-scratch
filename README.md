@@ -69,3 +69,7 @@ Exemplo de cenário:
     
 - Entregue o **link do projeto de Scratch** e, caso tenha feito, o **link do PR** no [Formulário de entrega](https://forms.gle/makgC56MrUSNX8RY8). Caso tenha criado o Pull Request, **ainda não faça o merge!**
 
+
+**********LINK PROJETO SCRATCH JOÃO HENRIQUE/OZEMELA*******
+https://scratch.mit.edu/projects/749917355/
+
