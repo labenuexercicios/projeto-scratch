@@ -10,7 +10,7 @@ Esse foi o primeiro projeto feito no curso. O objetivo era construir um jogo no 
 - Operadores
 - Comparadores
 
-## Enunciado
+## Sobre
 
 O jogo de pegar bolinhas consiste em um personagem que se move em todas as direções usando o teclado, e em 4 bolas que se movem aleatoriamente por toda a tela. O personagem deve conseguir pegar todas as 4 bolas o mais rápido possível. Se ele não conseguir em 30 segundos, perde o jogo.
 
